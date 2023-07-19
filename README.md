@@ -1,13 +1,7 @@
 - Hai 👋, I am Yashoda Viyyapu
-- 🌱 I’m currently learning Full Stack Web Development Course at ineuron.
+- 🌱 I’m currently learning Full Stack Java Script  Course at ineuron.
 - 👀 I’m interested in web development.
-
-- 📫 How to reach me: ...
-- I am from 🇮🇳
-
-
-👀 I’m interested in web development.
-🌱 I’m currently learning MERN
-💞️ I’m looking to collaborate on projects which are based on C++, Python, JavaScript, Django, MERN.
-📫 You can mail me at : pravaranu6@gmail.com
-Pinned
+- 😎 I’m looking to collaborate on projects which are based on HTML, CSS, JavaScript, React JS, Tailwind, Bootstarp.
+- 📫 How to reach me :
+    - Email : yashodalakshmi999@gmail.com
+    - Linked In : https://www.linkedin.com/in/viyyapu-yashoda-lakshmi-ab96ab256/
