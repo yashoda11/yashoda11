@@ -5,4 +5,4 @@
 
 - 📫 How to reach me :
     - Email : yashodalakshmi999@gmail.com
-    - Linked In : https://www.linkedin.com/in/viyyapu-yashoda-lakshmi-ab96ab256/
+    - Linked-In : https://www.linkedin.com/in/viyyapu-yashoda-lakshmi-ab96ab256/
