@@ -4,5 +4,5 @@
 - 😎 I’m looking to collaborate on projects which are based on HTML, CSS, JavaScript, React JS, Tailwind, Python.
 
 - 📫 How to reach me :
-    - Email : yashodalakshmi999@gmail.com
+  
     - Linked-In : https://www.linkedin.com/in/viyyapu-yashoda-lakshmi-ab96ab256/
